@@ -1,6 +1,6 @@
 # freecodecamplandingpage
 
-This is my Landing Page.
+This is my Eigo Ganbare Landing Page.
 
 You can see this project LIVE on here. 
 
